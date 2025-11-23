@@ -33,3 +33,14 @@ The main goal was to build a strong EDA foundation before moving into ML models.
 4️⃣ Feature Exploration
 
   - Explored distributions (Gender, Pclass, Embarked) to get insights of survival distribution.
+
+## ✅ Conclusion:
+
+This project was to undersatnd the basics of **exploratory analysis**. How **data cleaning, visualization, and feature exploration** are foundation blocks for building any **machine learning models**.  
+
+---
+
+## 📂 Files to get code
+- `Data_Analysis(Titanic).ipynb` – Jupyter Notebook with code and visualizations.
+- `titanic.csv` – Dataset used for analysis.
+---
